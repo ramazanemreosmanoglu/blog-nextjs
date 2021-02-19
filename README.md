@@ -1,7 +1,4 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ramazanemreosmanoglu/blog-nextjs)
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/puf17640/git-badges)](https://badges.pufler.dev)
 
 
 # Simple Blog App With Next.JS
